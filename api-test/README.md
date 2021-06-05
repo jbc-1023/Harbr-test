@@ -1,5 +1,8 @@
 Hi Harbr folks. Just keeping it simple for easy deploy and run. Thanks for looking!
 
+### Intro:
+Tests are written in Behavior Driven Development (BDD) framework written with Gherkin and Python 3
+
 ### Steps to run tests:
 
 _Assuming you are running Ubuntu Linux_

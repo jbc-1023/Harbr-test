@@ -1,5 +1,7 @@
 Hi Harbr folks. Justl ike the other API test, I kept it simple. Selenium does require some prerequisites, I  hope I've minimized the dependnecies enough to make it for quick deploy and run. Thanks for looking!
 
+### Intro:
+Tests are written in Behavior Driven Development (BDD) framework written with Gherkin and Python 3
 
 ### Steps to run tests:
 
